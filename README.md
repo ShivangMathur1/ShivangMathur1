@@ -3,9 +3,9 @@
 
 I'm Shivang Mathur, a junior year student at Thapar University. I'm an experienced python programmer with skills ranging from Deep Learning to Full Stack Development.
 
-- 🌱 I’m currently learning Django and Natural Language Processing.
-- 👯 I’m looking to collaborate on any interesting projects involving AI and problem-solving.
-- 💬 Ask me about anything nerdy, from Machine learning to Video Games.
+- 🌱 I’m currently learning Spring Boot and Full Stack Development.
+- 👯 I’m looking to collaborate on any interesting projects involving Backend and Web Development.
+- 💬 Ask me about anything nerdy, from Comic books to Video Games.
 - 📫 How to reach me: Try my [Email](shivang.mathur1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shivang-mathur-475185197/) page.
 - ⚡ Fun fact: In 2015 Python overtook French to become one of the most popular languages taught in primary schools.
 
