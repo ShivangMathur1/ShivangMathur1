@@ -12,12 +12,12 @@ I'm Shivang Mathur, a junior year student at Thapar University. I'm an experienc
 <br>
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/python.png" height="40" width="40"/>
-  <img src="https://img.icons8.com/color/96/000000/c-programming.png" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" width="40"/>
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="40" width="40"/>
   <img src="https://img.icons8.com/ios/50/ffffff/django.png" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40"/>
 </p>
