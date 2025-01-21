@@ -29,7 +29,7 @@ I'm Shivang Mathur, a junior year student at Thapar University. I'm an experienc
 -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivang-mathur-475185197/">
+  <a href="https://www.linkedin.com/in/shivangmathur/">
     <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="50" width="50"/>
   </a>
 </p>
