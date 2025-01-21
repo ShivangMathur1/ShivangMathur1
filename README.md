@@ -22,10 +22,11 @@ I'm Shivang Mathur, a junior year student at Thapar University. I'm an experienc
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivangMathur1&show_icons=true&theme=nightowl" />
 </p>
 <br>
+-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivang-mathur-475185197/">
