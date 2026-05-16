@@ -1,9 +1,24 @@
 ### Hello world!
 
 
-Maybe the real github was the friends we made along the way.
+Python, OpenGL, Reinforcement learning, Blender, Godot.
 
-Send help
+Just no more transformation matrices please.
+
+_I win again, Lews Therin_
+
+<br>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" height="40" width="40"/>
+  <img src="https://img.icons8.com/ios/50/ffffff/django.png" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangmathur/">
